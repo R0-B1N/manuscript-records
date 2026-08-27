@@ -19,8 +19,9 @@ DNF
 - currently or later digitalised media, does not get updated or fixed in K10+ (see __one time only__)
 
 
-
+<details>
+  <summary>Click me</summary>
 alas finally json again
 <img width="387" height="516" alt="images" src="https://github.com/user-attachments/assets/0049dd08-fcf4-42da-ab6a-8f7b64b3d327" />
-
+</details>
 
