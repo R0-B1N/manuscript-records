@@ -21,7 +21,7 @@ DNF
 
 <details>
   <summary>Click me</summary>
-  @bat_main german flowchart, englisch text works right? :D alas finally json again
+  @bat_main ugh, htf bilingial abominations help ;-; alas finally json again
 <img width="387" height="516" alt="images" src="https://github.com/user-attachments/assets/0049dd08-fcf4-42da-ab6a-8f7b64b3d327" />
 </details>
 
