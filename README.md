@@ -13,6 +13,7 @@ Open Fix, Known issues:
 - Filter for digitalised Manuscripts, via Blacklist???
 - Subfield-Check and Error checks need to be added/updated
 - Field input needs check-up/feedback
+- language forms in extra file
 
 DNF
 - No running pipeline --> one time batch import only
