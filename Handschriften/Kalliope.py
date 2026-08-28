@@ -222,7 +222,10 @@ def pica_json_dump(records):
 
 
 # main
-Menge = input("Anzuzeigende Ergebnisse: ").strip()
+Menge = input("Angabe für Anzahl der Datensaetze, 1 bis max. 10 (Enter = 10): ").strip() or "10"
+if int(Menge) > 10 or "":
+    print("No no no, only 10 Waterbottles")
+    Menge = "10"
 Dateiname = input("Dateiname fuer Export (Enter = kalliope_pica.json): ").strip() or "kalliope_pica.json"
 
 try:

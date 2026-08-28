@@ -938,7 +938,10 @@ def pica_json_dump(records):
     return "\n".join(zeilen)
 
 # main
-MaxEingabe = input("Maximale Anzahl Datensaetze (Enter = alle): ").strip()
+MaxEingabe = input("Angabe für Anzahl der Datensaetze, 1 bis max. 10 (Enter = 10): ").strip() or "10"
+if int(MaxEingabe) > 10 or "":
+    print("No no no, only 10 Waterbottles")
+    MaxEingabe = "10"
 
 Dateiname = input("Dateiname fuer Export (Enter = hsp_pica.json): ").strip() or "hsp_pica.json"
 
